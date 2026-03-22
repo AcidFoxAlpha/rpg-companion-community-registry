@@ -298,5 +298,26 @@
     "github_repo": "AcidFoxAlpha/obojima-spells",
     "repo_url": "https://AcidFoxAlpha.github.io/obojima-spells/",
     "has_system": false
+  },
+  {
+    "name": "Obojima-core-set",
+    "description": "Obojima Corebook for players containing spells, races, backgrounds and background bound items, source tag and classes",
+    "tags": [
+      "5e",
+      "fantasy",
+      "zelda",
+      "ghibli",
+      "obojima",
+      "leisure",
+      "small",
+      "new",
+      "open",
+      "corebook",
+      "players"
+    ],
+    "stars": 0,
+    "github_repo": "AcidFoxAlpha/Obojima-core-set",
+    "repo_url": "https://AcidFoxAlpha.github.io/Obojima-core-set/",
+    "has_system": false
   }
 ]
