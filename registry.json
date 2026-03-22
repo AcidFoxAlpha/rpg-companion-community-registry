@@ -268,5 +268,21 @@
     "github_repo": "derpsyhome/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-",
     "repo_url": "https://derpsyhome.github.io/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-/",
     "has_system": false
+  },
+  {
+    "name": "Obojima-Tales-of-Tall-Grass-Corebook",
+    "description": "Contains Spell Pack, Races Pack, Background Pack, Special Items and Subclasses added to main ones",
+    "tags": [
+      "5e",
+      "fantasy",
+      "obojima",
+      "ghibli",
+      "zelda",
+      "3rd-party"
+    ],
+    "stars": 0,
+    "github_repo": "AcidFoxAlpha/Obojima-Tales-of-Tall-Grass-Corebook",
+    "repo_url": "https://AcidFoxAlpha.github.io/Obojima-Tales-of-Tall-Grass-Corebook/",
+    "has_system": false
   }
 ]
