@@ -284,5 +284,19 @@
     "github_repo": "AcidFoxAlpha/Obojima-Tales-of-Tall-Grass-Corebook",
     "repo_url": "https://AcidFoxAlpha.github.io/Obojima-Tales-of-Tall-Grass-Corebook/",
     "has_system": false
+  },
+  {
+    "name": "obojima-spells",
+    "description": "",
+    "tags": [
+      "5e",
+      "obojima",
+      "fantasy",
+      "ghibli"
+    ],
+    "stars": 0,
+    "github_repo": "AcidFoxAlpha/obojima-spells",
+    "repo_url": "https://AcidFoxAlpha.github.io/obojima-spells/",
+    "has_system": false
   }
 ]
