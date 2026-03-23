@@ -270,36 +270,6 @@
     "has_system": false
   },
   {
-    "name": "Obojima-Tales-of-Tall-Grass-Corebook",
-    "description": "Contains Spell Pack, Races Pack, Background Pack, Special Items and Subclasses added to main ones",
-    "tags": [
-      "5e",
-      "fantasy",
-      "obojima",
-      "ghibli",
-      "zelda",
-      "3rd-party"
-    ],
-    "stars": 0,
-    "github_repo": "AcidFoxAlpha/Obojima-Tales-of-Tall-Grass-Corebook",
-    "repo_url": "https://AcidFoxAlpha.github.io/Obojima-Tales-of-Tall-Grass-Corebook/",
-    "has_system": false
-  },
-  {
-    "name": "obojima-spells",
-    "description": "",
-    "tags": [
-      "5e",
-      "obojima",
-      "fantasy",
-      "ghibli"
-    ],
-    "stars": 0,
-    "github_repo": "AcidFoxAlpha/obojima-spells",
-    "repo_url": "https://AcidFoxAlpha.github.io/obojima-spells/",
-    "has_system": false
-  },
-  {
     "name": "Obojima-core-set",
     "description": "Obojima Corebook for players containing spells, races, backgrounds and background bound items, source tag and classes",
     "tags": [
